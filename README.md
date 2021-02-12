@@ -3,15 +3,15 @@ It is a system where staff can create, read, update, edit and delete booking for
 ## Functionalities
   •	Login to account. 
   <br> •	CRUD for customers' booking details.
+  <br> •	Able to reset entered text fields with just a click.
+  <br> •	Validation included. Eg: IC Validation, Check-In/ Check-Out Date, Days of Stay.
   <br> •	Booking details are saved into [booking.txt](/Hotel-Management-System/Booking.txt).
   <br> •	Customers' receipt are saved into [receipt.txt](/Hotel-Management-System/receipt.txt).
   <br> •	Rooms that are booked will be blocked and will not be available for booking.
   <br> •	Final price is calculated by RM350 per day multiplied with service tax of 10% and added with tourism tax of RM10 per night.
   <br> •	Receipt can be printed into PDF format.
   <br> •	Object Oriented Programming Concepts are used. Eg: Classes, Inheritance, Objects, Encapsulation. 
-
-
-•	Logout from account
+  <br> •	Logout from account
 
 ## Getting Started
 1. Install  [Apache Netbeans IDE 12](https://netbeans.apache.org/download/nb120/index.html) for framework.
