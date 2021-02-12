@@ -39,8 +39,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>Shopping Cart</h2>
-<img src="images/cart.PNG" alt="image">
+  <h2>Edit Booking</h2>
+<img src="images/editbooking.gif" alt="gif">
 </div>
 
 -----
