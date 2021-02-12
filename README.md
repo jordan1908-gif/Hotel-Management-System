@@ -5,6 +5,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 1. Install  [Apache Netbeans IDE 12](https://netbeans.apache.org/download/nb120/index.html) for framework.
 2. Import the hotel management system zip file through the File Tab of Apache Netbeans IDE.
 3. Run the system through JAVA Main Class. 
+4. User can also choose to run the application through the executable [JAR File](/Hotel-Management-System/dist/hotelroombookingsystem).
+
 
 ## Demos and Screenshot 
 
