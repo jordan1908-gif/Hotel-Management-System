@@ -1,16 +1,16 @@
 # hotelmanagementsystem
 It is a system where staff can create, read, update, edit and delete booking for customers. Upon confirmation, staff can proceed to print the finalised receipt to customers.
- Important Note
-  <br> •	Login or create an account
-•	Verify account through registered email
-•	Retrieve forgotten password through registered email
-•	View a short introductory of the bakery shop.
-•	View cakes and milk tea that are available in the menu
-•	Add items into cart
-•	Remove items from cart
-•	Checkout and make payment
-• View Delivery Status
-•	View Order History
+## Functionalities
+  •	Login to account. 
+  <br> •	CRUD for customers' booking details.
+  <br> •	Booking details are saved into [booking.txt](/Hotel-Management-System/Booking.txt).
+  <br> •	Customers' receipt are saved into [receipt.txt](/Hotel-Management-System/receipt.txt).
+  <br> •	Rooms that are booked will be blocked and will not be available for booking.
+  <br> •	Final price is calculated by RM350 per day multiplied with service tax of 10% and added with tourism tax of RM10 per night.
+  <br> •	Receipt can be printed into PDF format.
+  <br> •	Object Oriented Programming Concepts are used. Eg: Classes, Inheritance, Objects, Encapsulation. 
+
+
 •	Logout from account
 
 ## Getting Started
