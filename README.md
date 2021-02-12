@@ -25,8 +25,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>User Roles</h2>
-<img src="images/user.PNG" alt="image">
+  <h2>Create Booking</h2>
+<img src="images/createbooking.gif" alt="gif">
 </div>
 
 -----
