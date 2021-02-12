@@ -53,6 +53,6 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>Order Status & History</h2>
-<img src="images/sorderhistory.PNG" alt="image">
+  <h2>Receipt Page</h2>
+<img src="images/receipt.gif" alt="gif">
 </div>
