@@ -1,5 +1,17 @@
 # hotelmanagementsystem
 It is a system where staff can create, read, update, edit and delete booking for customers. Upon confirmation, staff can proceed to print the finalised receipt to customers.
+ Important Note
+  <br> •	Login or create an account
+•	Verify account through registered email
+•	Retrieve forgotten password through registered email
+•	View a short introductory of the bakery shop.
+•	View cakes and milk tea that are available in the menu
+•	Add items into cart
+•	Remove items from cart
+•	Checkout and make payment
+• View Delivery Status
+•	View Order History
+•	Logout from account
 
 ## Getting Started
 1. Install  [Apache Netbeans IDE 12](https://netbeans.apache.org/download/nb120/index.html) for framework.
