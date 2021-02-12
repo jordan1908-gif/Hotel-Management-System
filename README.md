@@ -1,5 +1,5 @@
 # hotelmanagementsystem
-It is a system where staff can create, update, edit and delete booking for customers. 
+It is a system where staff can create, read, update, edit and delete booking for customers. 
 
 ## Getting Started
 1. Install Apache Netbeans IDE 12. 
