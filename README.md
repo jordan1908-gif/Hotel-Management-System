@@ -32,8 +32,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>Menu</h2>
-<img src="images/menu.PNG" alt="image">
+  <h2>View & Search Booking</h2>
+<img src="images/viewbooking.gif" alt="gif">
 </div>
 
 -----
