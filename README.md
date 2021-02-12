@@ -2,9 +2,9 @@
 It is a system where staff can create, read, update, edit and delete booking for customers. Upon confirmation, staff can proceed to print the finalised receipt to customers.
 
 ## Getting Started
-1. Install Apache Netbeans IDE 12. 
-2. Import the downloaded hotel management system zip file through the File Tab of Apache Netbeans IDE.
-3. Run the JAVA Main Class. 
+1. Install  [Apache Netbeans IDE 12](https://netbeans.apache.org/download/nb120/index.html) for framework.
+2. Import the hotel management system zip file through the File Tab of Apache Netbeans IDE.
+3. Run the system through JAVA Main Class. 
 
 ## Demos and Screenshot 
 
