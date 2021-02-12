@@ -46,8 +46,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>Checkout</h2>
-<img src="images/scheckout.PNG" alt="image">
+  <h2>Delete Booking</h2>
+<img src="images/deletebooking.gif" alt="gif">
 </div>
 
 -----
