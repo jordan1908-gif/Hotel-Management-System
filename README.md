@@ -18,8 +18,8 @@ It is a system where staff can create, read, update, edit and delete booking for
 -----
 
 <div align="center">
-  <h2>Login Page</h2>
-<img src="images/login.PNG" alt="image">
+  <h2>Home Page</h2>
+<img src="images/home.PNG" alt="image">
 </div>
 
 -----
