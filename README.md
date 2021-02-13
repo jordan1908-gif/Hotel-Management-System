@@ -8,7 +8,7 @@ It is a system where staff can create, read, update, edit and delete booking for
   <br> •	Booking details are saved into [booking.txt](/Hotel-Management-System/Booking.txt).
   <br> •	Customers' receipt are saved into [receipt.txt](/Hotel-Management-System/receipt.txt).
   <br> •	Rooms that are booked will be blocked and will not be available for booking.
-  <br> •	Final price is calculated by RM350 per day multiplied with service tax of 10%, added with tourism tax of RM10 per night.
+  <br> •	Final price is calculated by RM350/day multiplied with service tax of 10%, added with tourism tax of RM10/night.
   <br> •	Receipt can be printed into PDF format.
   <br> •	Object Oriented Programming Concepts are used. Eg: Classes, Inheritance, Objects, Encapsulation. 
   <br> •	Logout from account
